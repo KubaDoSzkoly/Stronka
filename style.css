@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+
 #galeria
 {
     text-align: center;
@@ -21,16 +23,10 @@
     opacity: 1;
 }
 
-#header
-{
-    width: 100vw;
-    height: 250px;
-    background-color: aqua;
-}
-
 body
 {
     margin: 0;
+    font-family: 'Amatic SC';
 }
 
 #Header1Text
@@ -58,6 +54,8 @@ a
     transition: padding 250ms;
     transform: scale(100%, 100%);
     transition: 0.3s;
+    font-weight: bold;
+    font-size: 25px;
 }
 
 a:hover
@@ -65,4 +63,9 @@ a:hover
     background: darken(#E2F3E2, 8%);
     text-decoration: none; 
     padding: 8px 20px;
+}
+
+#BigText
+{
+    font-size: 150px;
 }
