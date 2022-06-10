@@ -3,9 +3,10 @@
     text-align: center;
 }
 
-.big
+#big
 {
     height: 300px;
+    width: 300px;
 }
 
 .small
