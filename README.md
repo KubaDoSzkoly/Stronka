@@ -1,3 +1,3 @@
 # Stronka
 
-Małe ćwiczenie
+Małe zadanie do szkółki
