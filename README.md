@@ -1,1 +1,3 @@
 # Stronka
+
+Małe ćwiczenie
