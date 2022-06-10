@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+
+#galeria
+{
+    text-align: center;
+}
+
+#big
+{
+    height: 300px;
+    width: 550px;
+    clear: both;
+}
+
+.small
+{
+    height: 70px;
+    opacity: 0.3;
+}
+
+.small:hover
+{
+    opacity: 1;
+}
+
+body
+{
+    margin: 0;
+    font-family: 'Amatic SC';
+}
+
+#Header1Text
+{
+    font-size: 80px;
+    text-align: center;
+}
+
+#Header
+{
+    background-color: whitesmoke;
+    width: 100vw;
+    height: 250px;
+}
+
+a
+{
+    text-decoration: none;
+    color: black;
+    float: right;
+    margin-right: 18px;
+    -moz-transition: padding 250ms;
+    -webkit-transition: padding 250ms;
+    -o-transition: padding 250ms;
+    transition: padding 250ms;
+    transform: scale(100%, 100%);
+    transition: 0.3s;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+a:hover
+{
+    background: darken(#E2F3E2, 8%);
+    text-decoration: none; 
+    padding: 8px 20px;
+}
+
+#BigText
+{
+    font-size: 150px;
+}
